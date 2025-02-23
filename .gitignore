@@ -1,0 +1,41 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# Node modules (dependencies downloaded via npm/yarn)
+node_modules/
+
+# Environment variables (security reasons)
+.env
+.env.local
+
+# Build files (not needed in GitHub, only needed for deployment)
+dist/
+
+# Editor/IDE settings
+.vscode/
+.idea/
+
+# Logs and cache
+npm-debug.log
+yarn-error.log
