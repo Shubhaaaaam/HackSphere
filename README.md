@@ -1,4 +1,4 @@
-**Project Title:** HackSphere - An Interactive Coding Platform
+HackSphere - An Interactive Coding Platform
 
 ---
 
